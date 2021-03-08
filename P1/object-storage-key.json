@@ -1,0 +1,13 @@
+{
+  "apikey": "YzVkG6e8NVKGqXzPALDq1xYBQuk8HRKEd0ChZTQbgTu8",
+  "cos_hmac_keys": {
+    "access_key_id": "30badf3529b34a618492b51ef68398a3",
+    "secret_access_key": "f76cc31f08e2fb3178b1502ebf8860265fb44fb08b95f298"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key 30badf35-29b3-4a61-8492-b51ef68398a3",
+  "iam_apikey_name": "Vans-Bucket01-Credential",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/c186bedf43e9446db6b9ad4525afdb11::serviceid:ServiceId-d0c0b4fc-a12a-4ed0-8c49-220080ab7c09",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/c186bedf43e9446db6b9ad4525afdb11:c7754752-fab8-41a4-859e-30fefe1383a5::"
+}
